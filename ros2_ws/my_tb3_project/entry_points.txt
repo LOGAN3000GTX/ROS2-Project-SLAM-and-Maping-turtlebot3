@@ -1,0 +1,5 @@
+[console_scripts]
+map_saver = my_tb3_project.map_saver:main
+nav_goals = my_tb3_project.nav_goal_sender:main
+slam_monitor = my_tb3_project.slam_launcher:main
+
